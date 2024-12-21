@@ -13,3 +13,6 @@ materials I am using (have used) to learn things.
 - [Lifting State up and Callbacks](https://medium.com/nerd-for-tech/lifting-state-up-and-callbacks-7a19d0bdbe53)
 - [Inherited Widgets](https://medium.com/flutter-community/inherited-widgets-bc3110821969)
 - [State Management in Flutter](https://www.hungrimind.com/articles/flutter-state-management)
+
+### UI/UX
+- [UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma](https://www.youtube.com/watch?v=c9Wg6Cb_YlU)
