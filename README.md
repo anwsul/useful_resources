@@ -14,5 +14,8 @@ materials I am using (have used) to learn things.
 - [Inherited Widgets](https://medium.com/flutter-community/inherited-widgets-bc3110821969)
 - [State Management in Flutter](https://www.hungrimind.com/articles/flutter-state-management)
 
+### Web dev
+- [The odin project](https://www.theodinproject.com)
+
 ### UI/UX
 - [UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma](https://www.youtube.com/watch?v=c9Wg6Cb_YlU)
