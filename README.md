@@ -3,6 +3,7 @@ materials I am using (have used) to learn things.
 
 ## Physics
 - [What are Waves?](https://www.youtube.com/watch?v=LoRRE2aG3AY)
+- [What is a Magnetic Field?](https://www.youtube.com/watch?v=NOQK57fgu80)
 
 ## Software Engineering
 
